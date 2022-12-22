@@ -32,8 +32,8 @@ get_library_source() {
     SOURCE_TYPE="TAG"
     ;;
   ffmpeg)
-    SOURCE_REPO_URL="https://github.com/arthenica/FFmpeg"
-    SOURCE_ID="n5.1.2"
+    SOURCE_REPO_URL="https://github.com/dceddia/FFmpeg"
+    SOURCE_ID="n5.1.2-quiet-libdav1d"
     SOURCE_TYPE="TAG"
     ;;
   fontconfig)
